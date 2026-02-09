@@ -49,13 +49,13 @@
 
 
 <p>
-👋 Hello! I'm Julia, an aspiring programming student currently studying at Seneca College. My passion lies in the intersection of technology and art, where I strive to create beautiful and functional digital experiences.
+👋 Hi, I’m Julia — a software engineering student with a strong foundation in programming, UX/UI, and system analysis. I’m passionate about building digital experiences that are not only functional, but intuitive, accessible, and thoughtfully designed.
 </br></br>
-🎨 With a strong background in Graphic and Interactive Media Design, I've had the privilege of collaborating with various platforms to showcase my creative skills and innovative thinking. My journey has been driven by a profound interest in User Interface (UI) and User Experience (UX) design, as I'm committed to crafting seamless and enjoyable digital journeys for users.
+🎨 With a background in Graphic and Interactive Media Design and formal training in Computer Programming and Analysis, I bring both creativity and technical structure to my work. I enjoy working at the intersection of design and development, translating user needs into clean interfaces and reliable systems.
 </br></br>
-🌱 Beyond technology, I'm passionate about health, nutrition, and animal welfare, and I strive to make a positive impact in these areas.
+🧠 I have hands-on experience with full-stack development, cloud-based projects, and user-centered design, and I’m especially interested in roles that value usability, clarity, and collaboration between technical and non-technical stakeholders.
 </br></br>
-🚀 Looking ahead, I'm excited to explore collaborative opportunities that enable me to create innovative solutions bridging the gap between design and technology. My unique combination of creativity, technical know-how, and a fervor for UI/UX design positions me as a promising candidate for projects requiring an artistic touch and a focus on user-centered design.
+🌱 Outside of tech, I care deeply about health, nutrition, and animal welfare, and I value work that has a positive, real-world impact.
 </br></br>
-Let's connect and create something extraordinary! 🌟
+🚀 I’m always open to meaningful collaborations and opportunities where thoughtful design meets solid engineering. If you’re looking to build something useful, elegant, and user-focused — let’s connect.
 </p>
